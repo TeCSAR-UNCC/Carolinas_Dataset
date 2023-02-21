@@ -1,6 +1,6 @@
 # The Carolinas Dataset
 ![](./images/Traffic_eye_level.gif)
-![](https://github.com/TeCSAR-UNCC/Carolinas_Dataset/blob/main/images/Traffic_eye_level.gif)
+
 
 
 ## Overview
