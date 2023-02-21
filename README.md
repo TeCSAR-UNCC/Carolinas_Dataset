@@ -7,10 +7,10 @@ The Carolinas dataset is a comprehensive collection of vehicle trajectory data o
 <table>
     <caption>Figure 1:Examples of images from the Carolinas Dataset captured from different points of view (POVs). (a) and (b) depict images obtained from an eye-level POV, captured by a camera placed at a height of approximately 5.5 feet, facing the oncoming traffic. (c) and (d) show images obtained from a high-angle POV, captured by a camera placed at a height of approximately 15 feet with a slight downward tilt.</caption>
   <tr>
-    <td>(a)<br><img src="./images/figure1.png" width="200" height="125"></td>
-    <td>(b)<br><img src="./images/figure2.png" width="200" height="125"></td>
-    <td>(c)<br><img src="./images/figure3.png" width="200" height="125"></td>
-    <td>(d)<br><img src="./images/figure4.png" width="200" height="125"></td>
+    <td style="text-align: center;">(a)<br><img src="./images/figure1.png" width="200" height="125"></td>
+    <td style="text-align: center;">(b)<br><img src="./images/figure2.png" width="200" height="125"></td>
+    <td style="text-align: center;">(c)<br><img src="./images/figure3.png" width="200" height="125"></td>
+    <td style="text-align: center;">(d)<br><img src="./images/Figure4.png" width="200" height="125"></td>
   </tr>
 </table>
 
