@@ -47,6 +47,9 @@ The dataset comprises three components for each recording: the raw and annotated
 
 ### Following works were used in creation of this dataset
 [Zhang, Yifu and Sun, Peize and Jiang, Yi and Yu, Dongdong and Weng, Fucheng and Yuan, Zehuan and Luo, Ping and Liu, Wenyu and Wang, Xinggang, 2022](https://arxiv.org/abs/2110.06864)
+
 [YoloV5_DeepTrack](https://github.com/Naughty-Galileo/YoloV5_MCMOT)
+
 [YoloV5](https://github.com/ultralytics/yolov5)
+
 [ByteTrack](https://github.com/ifzhang/ByteTrack)
