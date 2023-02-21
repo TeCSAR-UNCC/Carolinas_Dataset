@@ -11,6 +11,15 @@ The Carolinas dataset is a comprehensive collection of vehicle trajectory data o
     <img src="./images/Figure4.png" width="200" height="125"/>
 </p>
 
+<table>
+  <tr>
+    <td>(a)<br><img src="./images/figure1.png" height="200" width="200"></td>
+    <td>(b)<br><img src="./images/figure2.png" height="200" width="200"></td>
+    <td>(c)<br><img src="./images/figure3.png" height="200" width="200"></td>
+    <td>(d)<br><img src="./images/figure4.png" height="200" width="200"></td>
+  </tr>
+</table>
+
 By capturing traffic from eye-level and high-angle viewpoints, the Carolinas dataset offers various perspectives on incoming traffic from different camera angles. Additionally, it features a merging lane to the highway in every video, allowing researchers to study driving behavior while changing lanes near lane closures. These features provide researchers with a rich source of information for analyzing highway traffic patterns and behaviors. The dataset's geographical coverage, range of traffic scenarios, and rich annotations make it an invaluable resource for intelligent transportation systems research and development.
 
 ## Data Collection and Extraction
