@@ -16,6 +16,9 @@ The Carolinas dataset is a comprehensive collection of vehicle trajectory data o
 
 By capturing traffic from eye-level and high-angle viewpoints, the Carolinas dataset offers various perspectives on incoming traffic from different camera angles. Additionally, it features a merging lane to the highway in every video, allowing researchers to study driving behavior while changing lanes near lane closures. These features provide researchers with a rich source of information for analyzing highway traffic patterns and behaviors. The dataset's geographical coverage, range of traffic scenarios, and rich annotations make it an invaluable resource for intelligent transportation systems research and development.
 
+## Link to Dataset
+https://drive.google.com/drive/folders/1pVShdEsaycDvJaXQFKlu-DjpsKFlig-I?usp=sharing
+
 ## Dataset Statistics
 
 The Carolinas trajectory dataset consists of 338,000 trajectories extracted from 16 videos at the frame rate of 60 Hz and 5 Hz. The dataset is distributed uniformly between training, validation and test sets, with 70% belonging to training set, 20% belonging to validation set and 10% belonging to test set. The dataset consists of five different classes of vehicles and the distribution of different classes across training, validation and test set is presented in the following figure. It can be seen that dataset has around 90% cars and the rest 10% is divided between bus, truck, bike and motor categories. Similar trends were also observed in previous studies.
