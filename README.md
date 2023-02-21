@@ -4,13 +4,11 @@
 
 The Carolinas dataset is a comprehensive collection of vehicle trajectory data obtained from two distinct points of view: eye-level and high-angle, as depicted in the following figures. The dataset consists of over 338,000 vehicle trajectories on highways across North Carolina and South Carolina, recorded at eight locations in five cities and towns within these two states, with a minimum trajectory duration of 4 seconds. In addition to trajectory data, the Carolinas dataset includes raw and annotated videos of highway traffic, spanning up to 7.5 hours and comprising 1.6 million frames and 33.47 million bounding box annotations.
 
-![POV Figures](./images/POV_figures_all.png)
-
 <p align="center">
-    <img src="./images/figure1.png" width="200" height="150" />
-    <img src="./images/figure2.png" width="200" height="150"/>
-    <img src="./images/figure3.png" width="200" height="150"/>
-    <img src="./images/Figure4.png" width="200" height="150"/>
+    <img src="./images/figure1.png" width="200" height="125" />
+    <img src="./images/figure2.png" width="200" height="125"/>
+    <img src="./images/figure3.png" width="200" height="125"/>
+    <img src="./images/Figure4.png" width="200" height="125"/>
 </p>
 
 By capturing traffic from eye-level and high-angle viewpoints, the Carolinas dataset offers various perspectives on incoming traffic from different camera angles. Additionally, it features a merging lane to the highway in every video, allowing researchers to study driving behavior while changing lanes near lane closures. These features provide researchers with a rich source of information for analyzing highway traffic patterns and behaviors. The dataset's geographical coverage, range of traffic scenarios, and rich annotations make it an invaluable resource for intelligent transportation systems research and development.
