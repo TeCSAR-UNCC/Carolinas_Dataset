@@ -4,19 +4,13 @@
 
 The Carolinas dataset is a comprehensive collection of vehicle trajectory data obtained from two distinct points of view: eye-level and high-angle, as depicted in the following figures. The dataset consists of over 338,000 vehicle trajectories on highways across North Carolina and South Carolina, recorded at eight locations in five cities and towns within these two states, with a minimum trajectory duration of 4 seconds. In addition to trajectory data, the Carolinas dataset includes raw and annotated videos of highway traffic, spanning up to 7.5 hours and comprising 1.6 million frames and 33.47 million bounding box annotations.
 
-<p align="center">
-    <img src="./images/figure1.png" width="200" height="125" />
-    <img src="./images/figure2.png" width="200" height="125"/>
-    <img src="./images/figure3.png" width="200" height="125"/>
-    <img src="./images/Figure4.png" width="200" height="125"/>
-</p>
-
 <table>
+    <caption>Figure 1:Examples of images from the Carolinas Dataset captured from different points of view (POVs). (a) and (b) depict images obtained from an eye-level POV, captured by a camera placed at a height of approximately 5.5 feet, facing the oncoming traffic. (c) and (d) show images obtained from a high-angle POV, captured by a camera placed at a height of approximately 15 feet with a slight downward tilt.</caption>
   <tr>
-    <td>(a)<br><img src="./images/figure1.png" height="200" width="200"></td>
-    <td>(b)<br><img src="./images/figure2.png" height="200" width="200"></td>
-    <td>(c)<br><img src="./images/figure3.png" height="200" width="200"></td>
-    <td>(d)<br><img src="./images/figure4.png" height="200" width="200"></td>
+    <td>(a)<br><img src="./images/figure1.png" width="200" height="125"></td>
+    <td>(b)<br><img src="./images/figure2.png" width="200" height="125"></td>
+    <td>(c)<br><img src="./images/figure3.png" width="200" height="125"></td>
+    <td>(d)<br><img src="./images/figure4.png" width="200" height="125"></td>
   </tr>
 </table>
 
