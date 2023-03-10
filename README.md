@@ -27,11 +27,11 @@ The Carolinas dataset is a comprehensive collection of vehicle trajectory data o
   </tr>
 </table>
 
-## Link to Dataset
+## Links to CHD 
 [Links to CHD Eye-level data]
 * [Trajectory](https://drive.google.com/file/d/1r9aKVgaxy3SxZsKWg9Zmxfeu0lQCG1jc/view?usp=sharing)
 * [Videos](https://drive.google.com/drive/folders/1_yUzwe9r8k6338TaOwBSuByfL6aQ9Nb-?usp=sharing)
-* [Annotations]https://drive.google.com/file/d/1Qv1EvZ2A8lvcOZEg9KuAoHED0WPP0o2y/view?usp=sharing)
+* [Annotations](https://drive.google.com/file/d/1Qv1EvZ2A8lvcOZEg9KuAoHED0WPP0o2y/view?usp=sharing)
 
 [Links to CHD High-angle data]
 * [Trajectory](https://drive.google.com/file/d/1zH1HLxTErg-yBTuu8CHlIKkeRYFTle0I/view?usp=sharing)
