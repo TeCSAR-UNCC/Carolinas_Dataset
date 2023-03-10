@@ -29,17 +29,17 @@ CHD is a comprehensive collection of vehicle trajectory data obtained from two d
   </tr>
 </table> -->
 
-<p align="center">
-  <table>
-      <caption>Figure 1:Examples of images from the Carolinas Dataset captured from different points of view (POVs). (a) depicts image obtained from an eye-level POV, captured by a camera placed at a height of approximately 5.5 feet, facing the oncoming traffic. (b) shows image obtained from a high-angle POV, captured by a camera placed at a height of approximately 15 feet with a slight downward tilt.</caption>
-    <tr>
-      <td style="text-align: center;">(a)<br><img src="./images/figure1.png" width="200" height="125"></td>
-  <!--     <td style="text-align: center;">(b)<br><img src="./images/figure2.png" width="200" height="125"></td> -->
-      <td style="text-align: center;">(b)<br><img src="./images/figure3.png" width="200" height="125"></td>
-  <!--     <td style="text-align: center;">(d)<br><img src="./images/Figure4.png" width="200" height="125"></td> -->
-    </tr>
-  </table>
-</p>
+
+<!-- <table>
+    <caption>Figure 1:Examples of images from the Carolinas Dataset captured from different points of view (POVs). (a) depicts image obtained from an eye-level POV, captured by a camera placed at a height of approximately 5.5 feet, facing the oncoming traffic. (b) shows image obtained from a high-angle POV, captured by a camera placed at a height of approximately 15 feet with a slight downward tilt.</caption>
+  <tr>
+    <td style="text-align: center;">(a)<br><img src="./images/figure1.png" width="200" height="125"></td>
+<!--     <td style="text-align: center;">(b)<br><img src="./images/figure2.png" width="200" height="125"></td> -->
+    <td style="text-align: center;">(b)<br><img src="./images/figure3.png" width="200" height="125"></td>
+<!--     <td style="text-align: center;">(d)<br><img src="./images/Figure4.png" width="200" height="125"></td> -->
+  </tr>
+</table>
+ -->
 
 ## Links to CHD 
 [Links to CHD Eye-level data]
