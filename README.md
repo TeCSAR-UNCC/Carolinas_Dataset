@@ -8,7 +8,7 @@
 CHD is a comprehensive collection of vehicle trajectory data obtained from two distinct points of view: eye-level and high-angle, as depicted in the following figures. The dataset consists of over 338,000 vehicle trajectories on highways across North Carolina and South Carolina, recorded at eight locations in five cities and towns within these two states, with a minimum trajectory duration of 4 seconds. In addition to trajectory data, the Carolinas dataset includes raw cideos of highway traffic, spanning up to 7.5 hours and comprising 1.6 million frames and 33.47 million bounding box annotations.
 
 <p align="center">
-  <img src="./images/map.png" alt="Marker view of recording locations of CHD">
+  <img src="./images/map.png" alt="Marker view of recording locations of CHD" width="70%">
 </p>
 
 
