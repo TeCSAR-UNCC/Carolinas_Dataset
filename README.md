@@ -1,6 +1,7 @@
 # The Carolinas Highway Dataset (CHD)
-![](./images/Traffic_eye_level_gif2.gif)
-
+<p align="center">
+  ![](./images/Traffic_eye_level_gif2.gif)
+</p>
 
 
 ## Overview
