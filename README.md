@@ -11,6 +11,10 @@ CHD is a comprehensive collection of vehicle trajectory data obtained from two d
   <img src="./images/map_new2.pdf" alt="Marker view of recording locations of CHD">
 </p>
 
+<div style="text-align:center">
+  <img src="./images/map_new2.pdf" alt="Marker view of the recording locations for CHD">
+</div>
+
 
 
 <!-- <table>
