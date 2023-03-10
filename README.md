@@ -1,7 +1,7 @@
 # The Carolinas Highway Dataset (CHD)
 
 <p align="center">
-  <img src="./images/map.png" alt="Marker view of recording locations of CHD" width="70%">
+  <img src="./images/map.png" alt="Marker view of CHD recording locations" width="70%">
 </p>
 
 <p align="center">
