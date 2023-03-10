@@ -35,11 +35,10 @@ CHD is a comprehensive collection of vehicle trajectory data obtained from two d
   <tr>
     <td style="text-align: center;">(a)<br><img src="./images/figure1.png" width="200" height="125"></td>
 <!--     <td style="text-align: center;">(b)<br><img src="./images/figure2.png" width="200" height="125"></td> -->
-    <td style="text-align: center;">(b)<br><img src="./images/figure3.png" width="200" height="125"></td>
+<!--     <td style="text-align: center;">(b)<br><img src="./images/figure3.png" width="200" height="125"></td> -->
 <!--     <td style="text-align: center;">(d)<br><img src="./images/Figure4.png" width="200" height="125"></td> -->
-  </tr>
-</table>
- -->
+<!--   </tr> -->
+<!-- </table> --> -->
 
 ## Links to CHD 
 [Links to CHD Eye-level data]
