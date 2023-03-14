@@ -1,11 +1,11 @@
-# The Carolinas Highway Dataset (CHD)
+# The Carolinas Highway Dataset
 
 <p align="center">
   <img src="./images/map.png" alt="Marker view of CHD recording locations" width="70%">
 </p>
 
 <p align="center">
-  Marker view of recording locations of CHD
+  Marker view of recording locations of Carolinas Highway Dataset
 </p>
 
 
@@ -13,7 +13,7 @@
 
 ## Overview
 
-CHD is a comprehensive collection of vehicle trajectory data obtained from two distinct points of view: eye-level and high-angle, as depicted in the following figures. The dataset consists of over 338,000 vehicle trajectories on highways across North Carolina and South Carolina, recorded at eight locations in five cities and towns within these two states, with a minimum trajectory duration of 4 seconds. In addition to trajectory data, the Carolinas dataset includes raw cideos of highway traffic, spanning up to 7.5 hours and comprising 1.6 million frames and 33.47 million bounding box annotations.
+Carolinas Highway Dataset (CHD) is a comprehensive collection of vehicle trajectory data obtained from two distinct points of view: eye-level and high-angle, as depicted in the following figures. The dataset consists of over 338,000 vehicle trajectories on highways across North Carolina and South Carolina, recorded at eight locations in five cities and towns within these two states, with a minimum trajectory duration of 4 seconds. In addition to trajectory data, the Carolinas dataset includes raw cideos of highway traffic, spanning up to 7.5 hours and comprising 1.6 million frames and 33.47 million bounding box annotations.
 
 ![](./images/Traffic_eye_level_gif2.gif)
 
@@ -37,7 +37,7 @@ CHD is a comprehensive collection of vehicle trajectory data obtained from two d
 
 
 <!-- <table>
-    <caption>Figure 1:Examples of images from the Carolinas Dataset captured from different points of view (POVs). (a) depicts image obtained from an eye-level POV, captured by a camera placed at a height of approximately 5.5 feet, facing the oncoming traffic. (b) shows image obtained from a high-angle POV, captured by a camera placed at a height of approximately 15 feet with a slight downward tilt.</caption>
+    <caption>Figure 1:Examples of images from the Carolinas Highway Dataset captured from different points of view (POVs). (a) depicts image obtained from an eye-level POV, captured by a camera placed at a height of approximately 5.5 feet, facing the oncoming traffic. (b) shows image obtained from a high-angle POV, captured by a camera placed at a height of approximately 15 feet with a slight downward tilt.</caption>
   <tr>
     <td style="text-align: center;">(a)<br><img src="./images/figure1.png" width="200" height="125"></td>
 <!--     <td style="text-align: center;">(b)<br><img src="./images/figure2.png" width="200" height="125"></td> -->
