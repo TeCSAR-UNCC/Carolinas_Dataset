@@ -77,6 +77,19 @@ To extract vehicle trajectories from the videos, we combined YOLOv5 and ByteTrac
 
 The dataset comprises three components for each recording: the raw videos, annotated data and extracted trajectories data. Trajectory data files are split into training, validation, and test sets. The annotation data file is in CSV format and includes information such as the frame number, vehicle identification number, coordinates of the bounding box center, vehicle type, and coordinates of the bounding box boundaries.
 
+## Citation
+
+If you find our work helpful, please cite the following papers:
+
+```
+@article{katariya2023pov,
+  title={A POV-based Highway Vehicle Trajectory Dataset and Prediction Architecture},
+  author={Katariya, Vinit and Noghre, Ghazal Alinezhad and Pazho, Armin Danesh and Tabkhi, Hamed},
+  journal={arXiv preprint arXiv:2303.06202},
+  year={2023}
+}
+```
+
 
 ### Following works were used in creation of this dataset:
 [Zhang, Yifu and Sun, Peize and Jiang, Yi and Yu, Dongdong and Weng, Fucheng and Yuan, Zehuan and Luo, Ping and Liu, Wenyu and Wang, Xinggang, 2022](https://arxiv.org/abs/2110.06864)
