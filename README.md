@@ -57,7 +57,7 @@ Carolinas Highway Dataset (CHD) is a comprehensive collection of vehicle traject
 * [Annotations](https://drive.google.com/file/d/1ck8fici0aIy4CNBqVTSw_-YpIt2nL-Pv/view?usp=sharing)
 
 ### CHD Test Set
-* [Videos] (https://drive.google.com/drive/folders/1E6pIIrm08FIgDOA-sILdFDd1awU0_-Eg?usp=sharing)
+* [Videos](https://drive.google.com/drive/folders/1E6pIIrm08FIgDOA-sILdFDd1awU0_-Eg?usp=sharing)
 
 
 ## Dataset Statistics
