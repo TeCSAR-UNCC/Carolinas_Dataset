@@ -49,12 +49,14 @@ Carolinas Highway Dataset (CHD) is a comprehensive collection of vehicle traject
 ### CHD Eye-level data:
 * [Trajectory](https://drive.google.com/file/d/1r9aKVgaxy3SxZsKWg9Zmxfeu0lQCG1jc/view?usp=sharing)
 * [Videos](https://drive.google.com/drive/folders/1_yUzwe9r8k6338TaOwBSuByfL6aQ9Nb-?usp=sharing)
-* [Annotations](https://drive.google.com/file/d/1Qv1EvZ2A8lvcOZEg9KuAoHED0WPP0o2y/view?usp=sharing)
+* [Video Annotations](https://drive.google.com/file/d/1Qv1EvZ2A8lvcOZEg9KuAoHED0WPP0o2y/view?usp=sharing)
+* [Lane Annotations](https://drive.google.com/drive/folders/1UOhz9uXJpgc8UB12Sk4rJPalWcd14gN1?usp=sharing)
 
 ### CHD High-angle data
 * [Trajectory](https://drive.google.com/file/d/1zH1HLxTErg-yBTuu8CHlIKkeRYFTle0I/view?usp=sharing)
 * [Videos](https://drive.google.com/drive/folders/1g8qfM3aLtIA0JkkPIWPIG6uDpRYtoXft?usp=sharing)
 * [Annotations](https://drive.google.com/file/d/1ck8fici0aIy4CNBqVTSw_-YpIt2nL-Pv/view?usp=sharing)
+* [Lane Annotations](https://drive.google.com/drive/folders/1pb726danXcXUEIfjuOKfFcUs5bkSwxUe?usp=sharing)
 
 ### CHD Anomaly Test Set
 The CHD Anomaly Test Dataset comprises vehicle trajectory data captured from two distinct perspectives: eye-level and high-angle viewpoints. Within each of these perspectives, there are 11 videos in each category. In these videos, there are vehicles of anomalous driving behavior, such as vehicles deviating from their lanes. In total, the dataset contains 22 videos, making it a valuable resource for the detection of anomalies on highways.
